@@ -1,0 +1,7 @@
+- name: Install php
+  apt: 
+    pkg: php7.4
+
+- name: Install fpm
+  apt: 
+    pkg: php7.4-fpm
