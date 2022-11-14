@@ -4,7 +4,7 @@
 
 ---
 
-1. Realiza la configuración básica de nginx que ejecute scripts PHP creando una receta ansible. Utilizando como base la receta ansible que utilizaste para el taller 4, modifícala para añadir las siguientes funcionalidades:
+1. Realiza la configuración básica de nginx que ejecute scripts PHP creando una receta ansible. Utilizando como base la receta ansible que utilizaste para el [taller 4](https://fp.josedomingo.org/sri2223/3_http/files/ejercicio_proxy.zip), modifícala para añadir las siguientes funcionalidades:
 
       - Instalación de los servicios (cada servicio se instalará y configurará en un rol diferenciado).
         
